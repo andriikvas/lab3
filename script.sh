@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ml icc
 SOURCE="geometric_mean.c"
 OPT_LEVELS=("-O0" "-O1" "-O2" "-O3")
 
